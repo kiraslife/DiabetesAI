@@ -1,8 +1,18 @@
-# 🩺 Disease Risk Prediction — Diabetes
+# 🩺 DiabetesAI — Risk Predictor
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kiraslife-diabetesai-appapp-gnrny4.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-kiraslife%2FDiabetesAI-181717?logo=github)](https://github.com/kiraslife/DiabetesAI)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Model](https://img.shields.io/badge/Model-Stacking%20Ensemble-purple)
+![Recall](https://img.shields.io/badge/Recall-87%25-green)
+![ROC--AUC](https://img.shields.io/badge/ROC--AUC-94.3%25-brightgreen)
 
 > **A complete end-to-end machine learning portfolio project** for predicting diabetes
 > risk using the Pima Indians Diabetes dataset. Covers data cleaning, exploratory
-> analysis, multi-model training, SHAP explainability, and a live Streamlit app.
+> analysis, multi-model training with Optuna tuning, SHAP explainability, and a
+> **live interactive Streamlit app**.
+
+🔗 **[Live Demo → https://kiraslife-diabetesai-appapp-gnrny4.streamlit.app/](https://kiraslife-diabetesai-appapp-gnrny4.streamlit.app/)**
 
 ---
 
