@@ -398,8 +398,8 @@ with right:
                 paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
                 xaxis=dict(showgrid=True, gridcolor="rgba(255,255,255,.05)",
                            zeroline=True, zerolinecolor="rgba(255,255,255,.2)",
-                           tickfont=dict(color="#64748b"), title="SHAP value",
-                           titlefont=dict(color="#64748b")),
+                           tickfont=dict(color="#64748b"),
+                           title=dict(text="SHAP value", font=dict(color="#64748b"))),
                 yaxis=dict(tickfont=dict(color="#94a3b8")),
                 margin=dict(l=10,r=60,t=10,b=10), height=220
             )
